@@ -64,7 +64,7 @@ com a função <i>predict</i> e o submit das predições.
 <h2>Pontos</h2>
 <p>
 Também tentei outros parâmetros no modelo de Extra Trees. Os parâmetros do código foram os melhores que consegui.
-Fiz um modelo com Random Forest que apresentou um resultado proximo desde mas este modelo ainda foi melhor.
+Fiz um modelo com Random Forest que apresentou um resultado próximo a este mas este modelo ainda foi melhor.
 </br>
 </br>
 <p>
