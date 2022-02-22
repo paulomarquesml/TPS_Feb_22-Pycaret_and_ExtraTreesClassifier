@@ -1,8 +1,8 @@
 <h1> Introdução </h1>
 
 <p>
-<ul text="blue">
-  <li text="blue">
+<ul>
+  <li>
   Competição: Tabular Playground Series - Feb 2022
   </li>
   <li>
@@ -12,7 +12,7 @@
   Score: 0.97274 de 1.00000
   </li>
   <li>
-  Leaderboard: 411º de 1055
+  Leaderboard: 418º de 1078
   </li>
   </br>
 </ul>
